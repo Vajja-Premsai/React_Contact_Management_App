@@ -49,7 +49,7 @@ To run the app locally, follow these instructions:
 
 1. **Clone the repository:**
     ```shell
-    git clone https://github.com/your-username/your-repo.git
+    git clone [(https://github.com/Vajja-Premsai/React_Contact_Management_App)]
     ```
 
 2. **Navigate to the project directory:**
