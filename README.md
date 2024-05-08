@@ -4,7 +4,7 @@ Welcome to the **Contact Management App**! This application allows you to manage
 
 ---
 
-## 🌟 **Live Deployment** 🌟
+## 🌟 **Live Deployment** 🌟 
 
 Check out the app live [**here**](https://react-contact-management-app-ocnm-prems-projects-7f99fe25.vercel.app/). 
 
@@ -94,8 +94,7 @@ Specify the license under which the project is available (e.g., MIT, GPL, etc.).
 
 For questions or feedback, you can reach out to the project maintainers:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [your-username](https://github.com/your-username)
+- Email: [your-email@example.com](mailto:premsaiv518@gmail.com)
 
 ---
 
