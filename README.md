@@ -41,12 +41,12 @@ To run the app locally, follow these instructions:
 
 1. **Clone the repository:**
     ```shell
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/Vajja-Premsai/React_Contact_Management_App
     ```
 
 2. **Navigate to the project directory:**
     ```shell
-    cd your-repo
+    React_Contact_Management_App
     ```
 
 3. **Install dependencies:**
@@ -79,7 +79,7 @@ The app will be available at `http://localhost:3000`.
 
 ## Screenshots
 
-![Contact Management](./screenshots/contact-management.png)
+![Contact Management](./ScreenShots/contact.png)
 ![Charts and Maps](./screenshots/charts-and-maps.png)
 
 For more screenshots, visit the [**screenshot folder**](./screenshots/).
