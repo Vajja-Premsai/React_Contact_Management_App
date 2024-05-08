@@ -93,8 +93,7 @@ Specify the license under which the project is available (e.g., MIT, GPL, etc.).
 
 For any questions or feedback, you can reach out to the project maintainers:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [your-username](https://github.com/your-username)
+- Email: [premsaiv518@gmil.com](mailto:premsaiv518@gmail.com)
 
 Thank you for checking out the project! Let us know if you have any issues or questions.
 
