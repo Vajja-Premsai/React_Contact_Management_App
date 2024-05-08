@@ -78,10 +78,11 @@ The app will be available at `http://localhost:3000`.
 - Graph Data for Cases with Date: [**View Data**](https://disease.sh/v3/covid-19/historical/all?lastdays=all)
 
 ## Screenshots
-
+![Home Page ](./ScreenShots/home.png)
 ![Contact Management](./ScreenShots/contact.png)
+
 ![Charts and Maps](./ScreenShots/disp.png)
-(./ScreenShots/disp1.png)
+![Charts and Maps](./ScreenShots/disp1.png)
 
 For more screenshots, visit the [**screenshot folder**](./ScreenShots/).
 
