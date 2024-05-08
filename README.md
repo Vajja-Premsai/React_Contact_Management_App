@@ -17,7 +17,6 @@ Check out the app live [**here**](https://react-contact-management-app-ocnm-prem
 - [Usage](#usage)
 - [APIs](#apis)
 - [Screenshots](#screenshots)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -86,9 +85,6 @@ The app will be available at `http://localhost:3000`.
 
 For more screenshots, visit the [**screenshot folder**](./ScreenShots/).
 
-## License
-
-Specify the license under which the project is available (e.g., MIT, GPL, etc.).
 
 ## Contact
 
