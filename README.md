@@ -80,9 +80,10 @@ The app will be available at `http://localhost:3000`.
 ## Screenshots
 
 ![Contact Management](./ScreenShots/contact.png)
-![Charts and Maps](./screenshots/charts-and-maps.png)
+![Charts and Maps](./ScreenShots/disp.png)
+(./ScreenShots/disp1.png)
 
-For more screenshots, visit the [**screenshot folder**](./screenshots/).
+For more screenshots, visit the [**screenshot folder**](./ScreenShots/).
 
 ## License
 
